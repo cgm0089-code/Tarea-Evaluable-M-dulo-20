@@ -12,4 +12,7 @@ Technologies.
 - HTML.
 - CSS.
 - JavaScript.
+
+  Capture
+  
   
